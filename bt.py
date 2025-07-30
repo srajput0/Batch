@@ -4,8 +4,8 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # Initialize bot
 app = Client(
     "free_batch_bot",
-    api_id=29907731,  # Replace with your API ID
-    api_hash="8f59d632cb374705cfdee46ac17cc3cd",  # Replace with your API Hash
+   # api_id=29907731,  # Replace with your API ID
+   # api_hash="8f59d632cb374705cfdee46ac17cc3cd",  # Replace with your API Hash
     bot_token="7439280676:AAETvxLH5DJX02Z3A4nLcUTiFbhIYV2iRTM"  # Replace with your bot token
 )
 
