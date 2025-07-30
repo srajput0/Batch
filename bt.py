@@ -19,7 +19,7 @@ async def start_command(client, message):
 
     await message.reply_text(
         "**🎓 Welcome to the Free Batch Bot!**\n\n"
-        "Free Batch Rakesh Sir WITH FORWARD ON \nhttps://t.me/+iBX0Aq0hUs43NmY1\n\nTap below to access your batch",
+        "Free Batch Rakesh Sir WITH FORWARD ON \n\nhttps://t.me/+rE1hkV_MD_M4ZTNl\n\nTap below to access your batch",
         reply_markup=keyboard
     )
 
